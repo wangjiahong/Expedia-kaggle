@@ -1,5 +1,4 @@
-# Kaggle-expedia
-Kaggle competition---Expedia Hotel Recommendations
+## Kaggle competition: Expedia Hotel Recommendations
 
 
 Some other materials: How to get into the top 15 of a Kaggle competition using Python  
