@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Sun Apr 30 11:56:26 EEST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015b-be13-474c-00000bf70450 
-on database directory /home/jiahong/Expedia-kaggle/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@5d13d4e 
+Sun Apr 30 21:57:39 EEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015b-c039-b3fe-000011738318 
+on database directory /home/jiahong/Expedia-kaggle/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@17249e 
 Loaded from file:/home/jiahong/spark-2.1.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.7.0_80-b15
